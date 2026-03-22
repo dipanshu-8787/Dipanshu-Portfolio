@@ -5,7 +5,7 @@ const achievements = [
   {
     icon: "👑",
     title: "Class Representative",
-    subtitle: "3 Consecutive Academic Years",
+    subtitle: "2 Consecutive Academic Years",
     desc: "Elected as Class Representative for 3 consecutive academic years at Lovely Professional University — demonstrating leadership, communication, and trust among peers.",
     color: "border-yellow-500/30",
     badge: "Leadership",
@@ -23,7 +23,7 @@ const achievements = [
   {
     icon: "🏆",
     title: "Top 20 Rank — Board Exams",
-    subtitle: "Class XII · CBSE / State Board",
+    subtitle: "Class XII · CISCEBoard",
     desc: "Secured a position in the top 20 students in the 12th board examinations, showcasing academic excellence and disciplined study habits.",
     color: "border-emerald-500/30",
     badge: "Academic",
