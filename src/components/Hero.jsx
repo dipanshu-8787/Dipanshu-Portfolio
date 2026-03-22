@@ -172,7 +172,7 @@ export default function Hero() {
               <div className="relative w-64 h-72 sm:w-72 sm:h-80 md:w-80 md:h-96 rounded-3xl border border-orange-500/20 overflow-hidden bg-gradient-to-br from-[#1a1008] to-[#0f0f0f]">
                 {/* Replace src below with your actual photo path like /your-photo.jpg */}
                 <img
-                  src="\src\components\profile.png"
+                  src="/profile.png"
                   alt="Dipanshu Agnihotri"
                   className="w-full h-full object-cover object-top"
                   onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }}

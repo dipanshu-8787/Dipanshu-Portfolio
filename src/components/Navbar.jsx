@@ -33,7 +33,7 @@ export default function Navbar() {
             DA<span className="text-orange-500">.</span>
           </div> */}
           <img
-          src="/public/favicorn.png"
+          src="/favicorn.png"
           alt="DA Logo"
           className="w-10 h-10 object-contain"/>
         </button>

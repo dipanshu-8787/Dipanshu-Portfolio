@@ -209,7 +209,7 @@ export default function Contact() {
             transition={{ delay: 0.8 }}
             className="text-center mt-10 pt-8 border-t border-white/5 max-w-xs mx-auto" >
             <img
-              src="/public/favicorn.png"
+              src="/favicorn.png"
               alt="DA Logo"
               className="w-16 h-16 object-contain mx-auto "
             />

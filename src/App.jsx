@@ -42,7 +42,7 @@ export default function App() {
           >
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center">
               <img
-                src="/public/favicorn.png"
+                src="/favicorn.png"
                 alt="DA Logo"
                 className="w-20 h-20 object-contain mx-auto mb-2"
               />
