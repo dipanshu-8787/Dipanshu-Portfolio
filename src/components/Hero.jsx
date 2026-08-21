@@ -135,7 +135,7 @@ export default function Hero() {
                 View Projects
               </button>
               <a
-                href="/General_Cv_Dipanshu.pdf"
+                href="public/General_Cv_Dipanshu.pdf"
                  download
                 className="px-7 py-3 rounded-full border border-white/50 text-white font-semibold text-sm hover:border-orange-500/50 hover:text-orange-400 transition-all inline-flex items-center gap-2 shadow-lg shadow-orange-500/25"
                 >
