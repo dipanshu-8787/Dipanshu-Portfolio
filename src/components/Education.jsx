@@ -7,7 +7,7 @@ const education = [
     degree: "B.Tech — Computer Science & Engineering",
     location: "Punjab, India",
     period: "Since Aug 2023",
-    score: "CGPA: 8.36",
+    score: "CGPA: 8.47",
     icon: "🎓",
     highlights: ["MERN Stack","DSA","Cloud Computing","Class Representative"],
     current: true,
