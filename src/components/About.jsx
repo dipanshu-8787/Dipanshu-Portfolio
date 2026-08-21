@@ -138,8 +138,8 @@ import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 
 const stats = [
-  { num: "8.36", label: "CGPA" },
-  { num: "5+", label: "Projects" },
+  { num: "8.47", label: "CGPA" },
+  { num: "7+", label: "Projects" },
   { num: "15+", label: "Certificates" },
   { num: "200+", label: "DSA Solved" },
 ];
