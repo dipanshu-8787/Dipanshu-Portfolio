@@ -199,7 +199,7 @@ export default function Hero() {
                 className="absolute -bottom-4 -left-4 bg-[#1a1008] border border-orange-500/30 rounded-2xl px-4 py-2 shadow-xl"
               >
                 <div className="text-xs text-gray-400">CGPA</div>
-                <div className="text-orange-400 font-black text-lg">8.36</div>
+                <div className="text-orange-400 font-black text-lg">8.47</div>
               </motion.div>
               <motion.div
                 animate={{ y: [0, 6, 0] }}
