@@ -188,7 +188,7 @@ export default function About() {
             >
               I'm an aspiring software developer currently pursuing B.Tech in Computer Science at{" "}
               <span className="text-white font-semibold">Lovely Professional University</span>, Punjab,
-              with a CGPA of <span className="text-orange-400 font-semibold">8.36</span>.
+              with a CGPA of <span className="text-orange-400 font-semibold">8.47</span>.
             </motion.p>
 
             <motion.p
